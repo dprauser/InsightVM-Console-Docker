@@ -1,4 +1,4 @@
-FROM ubuntu:18.04
+FROM ubuntu:23.10
 MAINTAINER Jesse Whitham "jesse.whitham@gmail.com"
 
 #INSTALL necessary packages for install 
